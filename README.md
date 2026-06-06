@@ -12,6 +12,9 @@ Predicting the power output of a power plant is critical for efficient energy ma
 
 ## 📂 Dataset
 
+**File:** `powerPlant.csv`  
+**Source:** [UCI Machine Learning Repository — Combined Cycle Power Plant Dataset](https://archive.ics.uci.edu/ml/datasets/combined+cycle+power+plant)
+
 | Feature | Description | Unit |
 |--------|-------------|------|
 | `AT` | Ambient Temperature | °C |
@@ -143,4 +146,5 @@ jupyter notebook PowerPlant.ipynb
 ---
 
 ## 🙌 Acknowledgements
+- Dataset: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/combined+cycle+power+plant)
 - Built as a practice project for ANN regression with PyTorch
